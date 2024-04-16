@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022245664914",
+    "project_id": "transfer-app-99131",
+    "storage_bucket": "transfer-app-99131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022245664914:android:e6159ba13de2601baece4b",
+        "android_client_info": {
+          "package_name": "com.example.container_day1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhk17uQYzFDlzgh-D4RJpVT7zzASbo2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
